@@ -5,5 +5,6 @@
   - Each member must solve one problem every day from Codeforces.
   - The link to the problem must be added in the respective readme files
   - Language can be of the member's choice
+  - Consistency is the key!
   - That's it!
  
