@@ -1,2 +1,2 @@
 # GeekForce-30-days-of-code
-30 Days of Code Challenge by the GeekForce team!
+## DAY1 - https://codeforces.com/problemset/problem/510/A
