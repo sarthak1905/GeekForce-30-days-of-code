@@ -6,3 +6,8 @@
 
 ### Day 2 : Jan 6 2021
 #### [Problem 2A: Winner](https://codeforces.com/problemset/problem/2/A)
+
+### Day 3 : Jan 7 2021
+#### [Problem 6A: Triangle](https://codeforces.com/problemset/problem/6/A)
+
+
