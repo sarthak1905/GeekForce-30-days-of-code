@@ -7,3 +7,6 @@
 
 ### Day 2- 6th January, 2021
   [1446A- Knapsack](https://codeforces.com/problemset/problem/1446/A)
+
+### Day 3- 7th Jaunuary, 2021
+  [1409B- Knapsack](https://codeforces.com/problemset/problem/1409/B)
