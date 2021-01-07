@@ -8,3 +8,6 @@
 
 #### Day 2- 6 January, 2021
 ##### [712B Memory and Trident](https://codeforces.com/problemset/problem/712/B)
+
+#### Day 3- 7 January, 2021
+##### [549A Face Detection](https://codeforces.com/problemset/problem/549/A)
