@@ -11,3 +11,6 @@
 
 #### Day 3- 7 January, 2021
 ##### [549A Face Detection](https://codeforces.com/problemset/problem/549/A)
+
+#### Day 4- 8 January, 2021
+##### [1418A Buying Torches](https://codeforces.com/problemset/problem/1418/A)
