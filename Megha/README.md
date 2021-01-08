@@ -10,4 +10,7 @@
 ### Day 3 : Jan 7 2021
 #### [Problem 6A: Triangle](https://codeforces.com/problemset/problem/6/A)
 
+### Day 4 : Jan 8 2021
+#### [Problem 33A: What is for Dinner?](https://codeforces.com/problemset/problem/33/A) 
+
 
