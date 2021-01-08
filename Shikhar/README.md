@@ -8,3 +8,5 @@
 ## Day 3 7th Jan 2021
 [Chef&div3 CC](https://www.codechef.com/JAN21C/problems/DIVTHREE)<br>
 [456A Laptops](https://codeforces.com/contest/456/problem/A)
+## Day 4 8th Jan 2021
+[Fair Elections CC](https://www.codechef.com/JAN21C/problems/FAIRELCT)
