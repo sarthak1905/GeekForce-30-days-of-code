@@ -10,3 +10,6 @@
 
 ### Day 3- 7th Jaunuary, 2021
   [1409B- Knapsack](https://codeforces.com/problemset/problem/1409/B)
+
+### Day 4- 8th January, 2021
+  [1294C- Product](https://codeforces.com/problemset/problem/1294/C)

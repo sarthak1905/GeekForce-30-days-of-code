@@ -14,3 +14,6 @@
 
 #### Day 4- 8 January, 2021
 ##### [1418A Buying Torches](https://codeforces.com/problemset/problem/1418/A)
+
+#### Day 5- 9 January, 2021
+##### [1468N Waste Sorting](https://codeforces.com/problemset/problem/1468/N)
