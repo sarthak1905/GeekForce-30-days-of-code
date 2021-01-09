@@ -22,3 +22,4 @@
 #### Day 6- 10 January, 2021
 ##### [1436A Reorder](https://codeforces.com/problemset/problem/1436/A)
 ##### [59A Word](https://codeforces.com/problemset/problem/59/A)
+##### [977B Two-Gram](https://codeforces.com/problemset/problem/977/B)
