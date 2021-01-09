@@ -14,6 +14,6 @@
 #### [Problem 33A: What is for Dinner?](https://codeforces.com/problemset/problem/33/A) 
 
 ### Day 5 : Jan 9 2021
-#### [Problem 1263A: Sweet Problem?](https://codeforces.com/problemset/problem/1263/A) 
+#### [Problem 1263A: Sweet Problem](https://codeforces.com/problemset/problem/1263/A) 
 
 
