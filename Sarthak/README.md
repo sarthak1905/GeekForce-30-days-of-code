@@ -13,3 +13,6 @@
 
 ### Day 4- 8th January, 2021
   [1294C- Product](https://codeforces.com/problemset/problem/1294/C)
+
+### Day 5- 9th January, 2021
+  [1367C- Social Distance](https://codeforces.com/problemset/problem/1367/C)
