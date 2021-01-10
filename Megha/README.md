@@ -16,4 +16,7 @@
 ### Day 5 : Jan 9 2021
 #### [Problem 1263A: Sweet Problem](https://codeforces.com/problemset/problem/1263/A) 
 
+### Day 6 : Jan 10 2021
+#### [Problem 47B: Coins](https://codeforces.com/problemset/problem/47/B) 
+
 
