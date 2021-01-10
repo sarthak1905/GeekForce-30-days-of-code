@@ -6,3 +6,10 @@
 
 #### Day 2- 6th January, 2021 
 [14-Strings](https://leetcode.com/problems/longest-common-prefix/)
+
+#### Day 3- 7th January, 2021 
+[292-Brain Teaser](https://leetcode.com/problems/nim-game/)
+
+#### Day 4- 8th January, 2021 
+[367-Binary Search](https://leetcode.com/problems/valid-perfect-square/)
+

@@ -10,3 +10,5 @@
 [456A Laptops](https://codeforces.com/contest/456/problem/A)
 ## Day 4 8th Jan 2021
 [Fair Elections CC](https://www.codechef.com/JAN21C/problems/FAIRELCT)
+## Day 5 9th Jan 2021
+[Beautiful Year](https://codeforces.com/problemset/problem/271/A)
