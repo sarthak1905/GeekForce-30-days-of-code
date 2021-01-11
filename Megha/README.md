@@ -19,4 +19,5 @@
 ### Day 6 : Jan 10 2021
 #### [Problem 47B: Coins](https://codeforces.com/problemset/problem/47/B) 
 
-
+### Day 7 : Jan 11 2021
+#### [Problem 43A: Football](https://codeforces.com/problemset/problem/43/A) 
