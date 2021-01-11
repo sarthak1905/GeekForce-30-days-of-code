@@ -23,3 +23,6 @@
 ##### [1436A Reorder](https://codeforces.com/problemset/problem/1436/A)
 ##### [59A Word](https://codeforces.com/problemset/problem/59/A)
 ##### [977B Two-Gram](https://codeforces.com/problemset/problem/977/B)
+
+#### Day 7- 11 January, 2021
+##### [1395A Boboniu Likes to Color Balls](https://codeforces.com/problemset/problem/1395/A)

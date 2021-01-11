@@ -12,3 +12,7 @@
 [Fair Elections CC](https://www.codechef.com/JAN21C/problems/FAIRELCT)
 ## Day 5 9th Jan 2021
 [Beautiful Year](https://codeforces.com/problemset/problem/271/A)
+## Day 6th 10th Jan 2021
+[Point of Impact CC](https://www.codechef.com/JAN21C/submit/BILLRD)
+## Day 7th 11th Jan 2021
+[Interesting Drink](https://codeforces.com/problemset/problem/706/B)
