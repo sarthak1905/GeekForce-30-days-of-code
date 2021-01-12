@@ -19,3 +19,6 @@
 
 ### Day 6- 10th January, 2021
   [1055B- Alice and Hairdresser](https://codeforces.com/problemset/problem/1055/B)
+
+### Day 7- 11th January, 2021
+  [1000B- Light it up](https://codeforces.com/problemset/problem/1000/B)
