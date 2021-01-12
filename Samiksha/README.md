@@ -26,3 +26,6 @@
 
 #### Day 7- 11 January, 2021
 ##### [1395A Boboniu Likes to Color Balls](https://codeforces.com/problemset/problem/1395/A)
+
+#### Day 8- 12 January, 2021
+##### [1326A Bad Ugly Numbers](https://codeforces.com/problemset/problem/1326/A)
