@@ -21,3 +21,6 @@
 
 ### Day 7 : Jan 11 2021
 #### [Problem 43A: Football](https://codeforces.com/problemset/problem/43/A) 
+
+### Day 8 : Jan 12 2021
+#### [Problem 39D: Cubical Planet](https://codeforces.com/problemset/problem/39/D) 
