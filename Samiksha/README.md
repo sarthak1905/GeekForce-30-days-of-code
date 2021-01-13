@@ -29,3 +29,6 @@
 
 #### Day 8- 12 January, 2021
 ##### [1326A Bad Ugly Numbers](https://codeforces.com/problemset/problem/1326/A)
+
+#### Day 9- 13 January, 2021
+##### [339A Petya's Strings](https://codeforces.com/problemset/problem/339/A)
