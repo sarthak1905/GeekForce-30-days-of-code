@@ -16,3 +16,5 @@
 [Point of Impact CC](https://www.codechef.com/JAN21C/submit/BILLRD)
 ## Day 7th 11th Jan 2021
 [Interesting Drink](https://codeforces.com/problemset/problem/706/B)
+## Day 8th 12th Jan 2021
+[Expression](https://codeforces.com/problemset/problem/479/A)
