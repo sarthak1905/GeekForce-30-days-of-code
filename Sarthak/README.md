@@ -22,3 +22,6 @@
 
 ### Day 7- 11th January, 2021
   [1000B- Light it up](https://codeforces.com/problemset/problem/1000/B)
+
+### Day 8- 12th January, 2021
+  [1000B- Maximum Sum Of Digits](https://codeforces.com/problemset/problem/1060/B)
