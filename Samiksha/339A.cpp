@@ -1,5 +1,5 @@
 //https://codeforces.com/problemset/problem/339/A
-//Date: 5/11/20
+//Date: 13/01/2021
 #include<iostream>
 #include<string>
 using namespace std;
