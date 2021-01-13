@@ -24,3 +24,7 @@
 
 ### Day 8 : Jan 12 2021
 #### [Problem 39D: Cubical Planet](https://codeforces.com/problemset/problem/39/D) 
+
+### Day 9 : Jan 13 2021
+#### [Problem 27A: Next Test](https://codeforces.com/contest/27/problem/A) 
+
