@@ -18,3 +18,5 @@
 [Interesting Drink](https://codeforces.com/problemset/problem/706/B)
 ## Day 8th 12th Jan 2021
 [Expression](https://codeforces.com/problemset/problem/479/A)
+## Day 9th 13th Jan 2021
+[Chewbacca and number](https://codeforces.com/contest/514/problem/A)
