@@ -28,3 +28,6 @@
 ### Day 9 : Jan 13 2021
 #### [Problem 27A: Next Test](https://codeforces.com/contest/27/problem/A) 
 
+### Day 10 : Jan 14 2021
+#### [Problem 37A: Towers](https://codeforces.com/contest/37/problem/A)
+
