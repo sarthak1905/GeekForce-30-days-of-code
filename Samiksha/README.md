@@ -32,3 +32,7 @@
 
 #### Day 9- 13 January, 2021
 ##### [339A Petya's Strings](https://codeforces.com/problemset/problem/339/A)
+
+#### Day 10- 14 January, 2021
+##### [1469A Regular Bracket Sequence](https://codeforces.com/problemset/problem/1469/A)
+
