@@ -20,3 +20,5 @@
 [Expression](https://codeforces.com/problemset/problem/479/A)
 ## Day 9th 13th Jan 2021
 [Chewbacca and number](https://codeforces.com/contest/514/problem/A)
+## Day 10th 14th jan 2021
+[Drinks](https://codeforces.com/contest/200/problem/B)
