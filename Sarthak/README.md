@@ -28,3 +28,6 @@
 
 ### Day 9- 13th January, 2021
   [1155B- Game With Telephone Numbers](https://codeforces.com/problemset/problem/1155/B)
+
+### Day 10- 14th January, 2021
+  [1155B- Nirvana](https://codeforces.com/problemset/problem/1143/B)
