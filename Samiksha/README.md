@@ -35,4 +35,3 @@
 
 #### Day 10- 14 January, 2021
 ##### [1469A Regular Bracket Sequence](https://codeforces.com/problemset/problem/1469/A)
-
