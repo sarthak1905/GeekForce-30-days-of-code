@@ -35,3 +35,6 @@
 
 #### Day 10- 14 January, 2021
 ##### [1469A Regular Bracket Sequence](https://codeforces.com/problemset/problem/1469/A)
+
+#### Day 11- 15 January, 2021
+##### [1409B Minimum Product](https://codeforces.com/problemset/problem/1409/B)
