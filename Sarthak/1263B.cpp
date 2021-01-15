@@ -53,7 +53,7 @@ int main()
         }
         cout << cnt << endl;
         for(long p = 0; p < n; p++)
-            std::cout << pv[p] << endl;
+            cout << pv[p] << endl;
     }
     return 0;
 }
