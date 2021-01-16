@@ -5,7 +5,8 @@
 ## DAY4 - https://codeforces.com/problemset/problem/1146/A
 ## DAY5 - https://codeforces.com/problemset/problem/1077/A
 ## DAY6 - https://codeforces.com/problemset/problem/1455/A
-##        https://codeforces.com/problemset/problem/723/A
-## DAY7 - https://codeforces.com/problemset/problem/490/A
-## DAY8 - https://codeforces.com/problemset/problem/540/A
-## DAY9 - https://codeforces.com/problemset/problem/716/A
+## Day7  https://codeforces.com/problemset/problem/723/A
+## DAY8 - https://codeforces.com/problemset/problem/490/A
+## DAY9 - https://codeforces.com/problemset/problem/540/A
+## DAY10 - https://codeforces.com/problemset/problem/716/A
+## DAY11 - https://codeforces.com/problemset/problem/110/A

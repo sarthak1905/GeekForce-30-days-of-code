@@ -31,3 +31,6 @@
 ### Day 10 : Jan 14 2021
 #### [Problem 37A: Towers](https://codeforces.com/contest/37/problem/A)
 
+### Day 11 : Jan 15 2021
+#### [Problem 4C: Registeration System](https://codeforces.com/problemset/problem/4/C)
+
