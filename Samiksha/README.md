@@ -38,3 +38,6 @@
 
 #### Day 11- 15 January, 2021
 ##### [1409B Minimum Product](https://codeforces.com/problemset/problem/1409/B)
+
+#### Day 12- 16 January, 2021
+##### [1409C Yet Another Array Restoration](https://codeforces.com/problemset/problem/1409/C)
