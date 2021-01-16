@@ -1,5 +1,5 @@
 //Problem-link:https://codeforces.com/problemset/problem/4/C
-//Date : 16/01/2021
+//Date : 15/01/2021
 
 #include<bits/stdc++.h>
 using namespace std;
