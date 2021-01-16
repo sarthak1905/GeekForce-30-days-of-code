@@ -22,3 +22,5 @@
 [Chewbacca and number](https://codeforces.com/contest/514/problem/A)
 ## Day 10th 14th jan 2021
 [Drinks](https://codeforces.com/contest/200/problem/B)
+## Day 11th 15th Jan 2021
+[Fair Division](https://codeforces.com/problemset/problem/1472/B)
