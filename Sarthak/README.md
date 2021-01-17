@@ -34,3 +34,6 @@
 
 ### Day 11- 15th January, 2021
   [1263B- PIN Codes](https://codeforces.com/problemset/problem/1263/B)
+
+### Day 12- 16th January, 2021
+  [1043B- Lost Array](https://codeforces.com/problemset/problem/1043/B)
