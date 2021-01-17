@@ -41,3 +41,6 @@
 
 #### Day 12- 16 January, 2021
 ##### [1409C Yet Another Array Restoration](https://codeforces.com/problemset/problem/1409/C)
+
+#### Day 13- 17 January, 2021
+##### [1455B Jumps](https://codeforces.com/problemset/problem/1455/B)
