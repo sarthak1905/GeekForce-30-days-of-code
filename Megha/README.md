@@ -37,3 +37,7 @@
 ### Day 12 : Jan 16 2021
 #### [Problem 4B: Before An Exam](https://codeforces.com/problemset/problem/4/B)
 
+### Day 13 : Jan 17 2021
+#### [Problem 106A: Card Game](https://codeforces.com/problemset/problem/106/A)
+
+
