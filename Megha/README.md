@@ -34,3 +34,6 @@
 ### Day 11 : Jan 15 2021
 #### [Problem 4C: Registeration System](https://codeforces.com/problemset/problem/4/C)
 
+### Day 12 : Jan 16 2021
+#### [Problem 4B: Before An Exam](https://codeforces.com/problemset/problem/4/B)
+
