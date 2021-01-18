@@ -44,3 +44,6 @@
 
 #### Day 13- 17 January, 2021
 ##### [1455B Jumps](https://codeforces.com/problemset/problem/1455/B)
+
+#### Day 14- 18 January, 2021
+##### [282A Bit++](https://codeforces.com/problemset/problem/282/A)
