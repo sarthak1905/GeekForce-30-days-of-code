@@ -34,3 +34,13 @@
 ### Day 11 : Jan 15 2021
 #### [Problem 4C: Registeration System](https://codeforces.com/problemset/problem/4/C)
 
+### Day 12 : Jan 16 2021
+#### [Problem 4B: Before An Exam](https://codeforces.com/problemset/problem/4/B)
+
+### Day 13 : Jan 17 2021
+#### [Problem 106A: Card Game](https://codeforces.com/problemset/problem/106/A)
+
+### Day 14 : Jan 18 2021
+#### [Problem 109A: Lucky Sum Of Digits](https://codeforces.com/problemset/problem/109/A)
+
+

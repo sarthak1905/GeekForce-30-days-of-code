@@ -10,3 +10,5 @@
 ## DAY9 - https://codeforces.com/problemset/problem/540/A
 ## DAY10 - https://codeforces.com/problemset/problem/716/A
 ## DAY11 - https://codeforces.com/problemset/problem/110/A
+## DAY12 - https://codeforces.com/problemset/problem/546/A
+## DAY13 - https://codeforces.com/problemset/problem/791/A
