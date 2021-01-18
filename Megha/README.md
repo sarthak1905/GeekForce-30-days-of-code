@@ -40,4 +40,7 @@
 ### Day 13 : Jan 17 2021
 #### [Problem 106A: Card Game](https://codeforces.com/problemset/problem/106/A)
 
+### Day 14 : Jan 18 2021
+#### [Problem 109A: Lucky Sum Of Digits](https://codeforces.com/problemset/problem/109/A)
+
 
