@@ -28,3 +28,5 @@
 [Round House](https://codeforces.com/problemset/problem/659/A)
 ## Day 13th 17th Jan 2021
 [Tram](https://codeforces.com/contest/116/problem/A)
+## Day 14th 18th Jan 2021
+[Wrong subtraction](https://codeforces.com/problemset/problem/977/A)
