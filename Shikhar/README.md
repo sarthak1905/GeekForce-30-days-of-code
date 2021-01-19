@@ -26,3 +26,5 @@
 [Fair Division](https://codeforces.com/problemset/problem/1472/B)
 ## Day 12th 16th Jan 2021
 [Round House](https://codeforces.com/problemset/problem/659/A)
+## Day 13th 17th Jan 2021
+[Tram](https://codeforces.com/contest/116/problem/A)
