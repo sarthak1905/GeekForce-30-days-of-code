@@ -43,4 +43,8 @@
 ### Day 14 : Jan 18 2021
 #### [Problem 109A: Lucky Sum Of Digits](https://codeforces.com/problemset/problem/109/A)
 
+### Day 15 : Jan 19 2021
+#### [Problem 58A: Chat Room](https://codeforces.com/problemset/problem/58/A)
+
+
 
