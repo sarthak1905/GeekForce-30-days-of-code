@@ -30,3 +30,5 @@
 [Tram](https://codeforces.com/contest/116/problem/A)
 ## Day 14th 18th Jan 2021
 [Wrong subtraction](https://codeforces.com/problemset/problem/977/A)
+## Day 15th !9th Jan 2021
+[Square?](https://codeforces.com/problemset/problem/1351/B)
