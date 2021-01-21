@@ -43,3 +43,6 @@
 
 ### Day 14- 18th January, 2021
   [1037B- Reach Median](https://codeforces.com/problemset/problem/1037/B)
+
+### Day 15- 19th January, 2021
+  [1038B- Non-Coprime Partition](https://codeforces.com/problemset/problem/1038/B)
