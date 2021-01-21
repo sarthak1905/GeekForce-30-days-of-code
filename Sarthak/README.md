@@ -37,3 +37,6 @@
 
 ### Day 12- 16th January, 2021
   [1043B- Lost Array](https://codeforces.com/problemset/problem/1043/B)
+
+### Day 13- 17th January, 2021
+  [315B- Sereja and Array](https://codeforces.com/problemset/problem/315/B)
