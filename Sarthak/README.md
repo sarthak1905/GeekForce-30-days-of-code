@@ -46,3 +46,6 @@
 
 ### Day 15- 19th January, 2021
   [1038B- Non-Coprime Partition](https://codeforces.com/problemset/problem/1038/B)
+
+### Day 16- 20th January, 2021
+  [1364A- XXXXX](https://codeforces.com/problemset/problem/1364/A)
