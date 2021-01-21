@@ -1,4 +1,4 @@
-// Date- 20/01/2021
+// Date- 21/01/2021
 // Problem Link- https://codeforces.com/problemset/problem/1467/A, rated 900
 #include <bits/stdc++.h>
 
