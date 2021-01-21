@@ -8,7 +8,7 @@
 ### Day 2- 6th January, 2021
   [1446A- Knapsack](https://codeforces.com/problemset/problem/1446/A)
 
-### Day 3- 7th Jaunuary, 2021
+### Day 3- 7th January, 2021
   [1409B- Knapsack](https://codeforces.com/problemset/problem/1409/B)
 
 ### Day 4- 8th January, 2021
@@ -40,3 +40,6 @@
 
 ### Day 13- 17th January, 2021
   [315B- Sereja and Array](https://codeforces.com/problemset/problem/315/B)
+
+### Day 14- 18th January, 2021
+  [1037B- Reach Median](https://codeforces.com/problemset/problem/1037/B)
