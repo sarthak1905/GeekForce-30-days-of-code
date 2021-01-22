@@ -46,5 +46,8 @@
 ### Day 15 : Jan 19 2021
 #### [Problem 58A: Chat Room](https://codeforces.com/problemset/problem/58/A)
 
+### Day 16 : Jan 20 2021
+#### [Problem 237A: Free Cash](https://codeforces.com/problemset/problem/237/A)
+
 
 
