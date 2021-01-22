@@ -14,3 +14,4 @@
 ## DAY13 - https://codeforces.com/problemset/problem/791/A
 ## DAY14 - https://codeforces.com/problemset/problem/116/A
 ## DAY15 - https://codeforces.com/problemset/problem/59/A
+## DAY16 - https://codeforces.com/problemset/problem/41/A
