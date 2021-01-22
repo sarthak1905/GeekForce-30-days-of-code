@@ -47,3 +47,9 @@
 
 #### Day 14- 18 January, 2021
 ##### [282A Bit++](https://codeforces.com/problemset/problem/282/A)
+
+#### Day 15- 19 January, 2021
+##### [158A Next Round](https://codeforces.com/problemset/problem/158/A)
+
+#### Day 16- 20 January, 2021
+##### [1A Theatre Square](https://codeforces.com/problemset/problem/1/A)

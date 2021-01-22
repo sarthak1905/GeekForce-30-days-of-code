@@ -26,3 +26,12 @@
 [Fair Division](https://codeforces.com/problemset/problem/1472/B)
 ## Day 12th 16th Jan 2021
 [Round House](https://codeforces.com/problemset/problem/659/A)
+## Day 13th 17th Jan 2021
+[Tram](https://codeforces.com/contest/116/problem/A)
+## Day 14th 18th Jan 2021
+[Wrong subtraction](https://codeforces.com/problemset/problem/977/A)
+## Day 15th 19th Jan 2021
+[Square?](https://codeforces.com/problemset/problem/1351/B)
+## Day 16th 20th Jan 2021
+[Sum of Odd Integers](https://codeforces.com/problemset/problem/1327/A)
+
