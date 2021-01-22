@@ -53,3 +53,9 @@
 
 #### Day 16- 20 January, 2021
 ##### [1A Theatre Square](https://codeforces.com/problemset/problem/1/A)
+
+#### Day 17- 21 January, 2021
+##### [118A String Task](https://codeforces.com/problemset/problem/118/A)
+
+#### Day 18- 22 January, 2021
+##### [1473B String LCM](https://codeforces.com/problemset/problem/1473/B)
