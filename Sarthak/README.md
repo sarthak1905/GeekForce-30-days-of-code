@@ -8,7 +8,7 @@
 ### Day 2- 6th January, 2021
   [1446A- Knapsack](https://codeforces.com/problemset/problem/1446/A)
 
-### Day 3- 7th Jaunuary, 2021
+### Day 3- 7th January, 2021
   [1409B- Knapsack](https://codeforces.com/problemset/problem/1409/B)
 
 ### Day 4- 8th January, 2021
@@ -30,10 +30,22 @@
   [1155B- Game With Telephone Numbers](https://codeforces.com/problemset/problem/1155/B)
 
 ### Day 10- 14th January, 2021
-  [1155B- Nirvana](https://codeforces.com/problemset/problem/1143/B)
+  [1143B- Nirvana](https://codeforces.com/problemset/problem/1143/B)
 
 ### Day 11- 15th January, 2021
   [1263B- PIN Codes](https://codeforces.com/problemset/problem/1263/B)
 
 ### Day 12- 16th January, 2021
   [1043B- Lost Array](https://codeforces.com/problemset/problem/1043/B)
+
+### Day 13- 17th January, 2021
+  [315B- Sereja and Array](https://codeforces.com/problemset/problem/315/B)
+
+### Day 14- 18th January, 2021
+  [1037B- Reach Median](https://codeforces.com/problemset/problem/1037/B)
+
+### Day 15- 19th January, 2021
+  [1038B- Non-Coprime Partition](https://codeforces.com/problemset/problem/1038/B)
+
+### Day 16- 20th January, 2021
+  [1364A- XXXXX](https://codeforces.com/problemset/problem/1364/A)
