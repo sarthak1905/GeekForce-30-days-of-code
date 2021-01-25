@@ -61,4 +61,7 @@
 ### Day 20 : Jan 24 2021
 #### [Problem 334A: Candy Bags](https://codeforces.com/problemset/problem/334/A)
 
+### Day 21 : Jan 25 2021
+#### [Problem 1140A: Detective Book](https://codeforces.com/problemset/problem/1140/A)
+
 
