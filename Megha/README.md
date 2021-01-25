@@ -52,5 +52,10 @@
 ### Day 17 : Jan 21 2021
 #### [Problem 1111A: Superhero Transformation](https://codeforces.com/problemset/problem/1111/A)
 
+### Day 18 : Jan 22 2021
+#### [Problem 1101A: Minimum Integer](https://codeforces.com/problemset/problem/1101/A)
+
+### Day 19 : Jan 23 2021
+#### [Problem 219A: k-string](https://codeforces.com/problemset/problem/219/A)
 
 
