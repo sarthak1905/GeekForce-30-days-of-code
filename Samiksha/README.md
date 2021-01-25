@@ -59,3 +59,6 @@
 
 #### Day 18- 22 January, 2021
 ##### [1473B String LCM](https://codeforces.com/problemset/problem/1473/B)
+
+#### Day 19- 23 January, 2021
+##### [1467A Wizard of Orz](https://codeforces.com/problemset/problem/1467/A)
