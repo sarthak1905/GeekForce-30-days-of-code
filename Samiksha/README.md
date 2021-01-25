@@ -62,3 +62,9 @@
 
 #### Day 19- 23 January, 2021
 ##### [1467A Wizard of Orz](https://codeforces.com/problemset/problem/1467/A)
+
+#### Day 20- 24 January, 2021
+##### [1409A Yet Another Two Integer Problem](https://codeforces.com/problemset/problem/1409/A)
+
+#### Day 21- 25 January, 2021
+##### [452A Eevee](https://codeforces.com/problemset/problem/452/A)
