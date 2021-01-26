@@ -68,3 +68,6 @@
 
 #### Day 21- 25 January, 2021
 ##### [452A Eevee](https://codeforces.com/problemset/problem/452/A)
+
+#### Day 22- 26 January, 2021
+##### [1462C Unique Number](https://codeforces.com/problemset/problem/1462/C)
