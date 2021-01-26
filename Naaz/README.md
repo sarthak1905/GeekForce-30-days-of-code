@@ -17,3 +17,5 @@
 ## DAY16 - https://codeforces.com/problemset/problem/41/A
 ## DAY17 - https://codeforces.com/problemset/problem/469/A
 ## DAY18 - https://codeforces.com/problemset/problem/136/A
+## DAY19 - https://codeforces.com/problemset/problem/266/B
+## DAY20 - https://codeforces.com/problemset/problem/734/A
