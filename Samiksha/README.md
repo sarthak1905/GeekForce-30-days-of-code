@@ -71,3 +71,6 @@
 
 #### Day 22- 26 January, 2021
 ##### [1462C Unique Number](https://codeforces.com/problemset/problem/1462/C)
+
+#### Day 23- 27 January, 2021
+##### [1471B Strange List](https://codeforces.com/problemset/problem/1471/B)
