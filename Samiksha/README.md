@@ -74,3 +74,6 @@
 
 #### Day 23- 27 January, 2021
 ##### [1471B Strange List](https://codeforces.com/problemset/problem/1471/B)
+
+#### Day 24- 28 January, 2021
+##### [71A Way too long words](https://codeforces.com/problemset/problem/71/A)
