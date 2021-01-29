@@ -22,4 +22,5 @@
 ## DAY21 - https://codeforces.com/problemset/problem/1370/A
 ## DAY22 - https://codeforces.com/problemset/problem/467/A
 ## DAY23 - https://codeforces.com/problemset/problem/677/A
+## DAY24 - https://codeforces.com/problemset/problem/200/B
 
