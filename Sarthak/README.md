@@ -55,3 +55,6 @@
 
 ### Day 18- 22nd January, 2021
   [1029B- Creating the Contest](https://codeforces.com/problemset/problem/1364/A)
+
+### Day 19- 23rd January, 2021
+  [1037B- GCD Compression](https://codeforces.com/problemset/problem/1370/B)
