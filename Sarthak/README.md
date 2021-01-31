@@ -49,3 +49,6 @@
 
 ### Day 16- 20th January, 2021
   [1364A- XXXXX](https://codeforces.com/problemset/problem/1364/A)
+
+### Day 17- 21st January, 2021
+  [834B- The Festive Evening](https://codeforces.com/problemset/problem/1364/A)
