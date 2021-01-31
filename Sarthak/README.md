@@ -52,3 +52,6 @@
 
 ### Day 17- 21st January, 2021
   [834B- The Festive Evening](https://codeforces.com/problemset/problem/1364/A)
+
+### Day 18- 22nd January, 2021
+  [1029B- Creating the Contest](https://codeforces.com/problemset/problem/1364/A)
