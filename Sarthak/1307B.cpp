@@ -1,5 +1,5 @@
 // Date- 23/01/2021
-// Problem Link- https://codeforces.com/problemset/problem/1370/B, rated 1100
+// Problem Link- https://codeforces.com/problemset/problem/1370/B, rated 1300
 
 #include<bits/stdc++.h>
 
