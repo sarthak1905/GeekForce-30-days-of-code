@@ -65,5 +65,8 @@
 ### Day 21- 25th January, 2021
   [1256B- Minimize The Permutation](https://codeforces.com/problemset/problem/1256/B)
 
-### Day 22- 25th January, 2021
+### Day 22- 26th January, 2021
   [1277B- Make Them Old](https://codeforces.com/problemset/problem/1277/B)
+
+### Day 23- 27th January, 2021
+  [1020B- Badge](https://codeforces.com/problemset/problem/1020/B)
