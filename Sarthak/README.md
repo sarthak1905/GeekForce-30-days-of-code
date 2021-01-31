@@ -57,4 +57,7 @@
   [1029B- Creating the Contest](https://codeforces.com/problemset/problem/1364/A)
 
 ### Day 19- 23rd January, 2021
-  [1037B- Cow and Friend](https://codeforces.com/problemset/problem/1370/B)
+  [1037B- Cow and Friend](https://codeforces.com/problemset/problem/1307/B)
+
+### Day 20- 24th January, 2021
+  [370B- Berland Bingo](https://codeforces.com/problemset/problem/370/B)
