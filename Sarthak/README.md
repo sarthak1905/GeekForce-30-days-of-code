@@ -61,3 +61,6 @@
 
 ### Day 20- 24th January, 2021
   [370B- Berland Bingo](https://codeforces.com/problemset/problem/370/B)
+
+### Day 21- 25th January, 2021
+  [1256B- Minimize The Permutation](https://codeforces.com/problemset/problem/1256/B)
