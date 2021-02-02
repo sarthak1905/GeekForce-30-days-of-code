@@ -28,3 +28,4 @@
 ### DAY27 - https://codeforces.com/problemset/problem/148/A
 ### DAY28 - https://codeforces.com/problemset/problem/228/A
 ### DAY29 - https://codeforces.com/problemset/problem/520/A
+### DAY30 - https://codeforces.com/problemset/problem/268/A
