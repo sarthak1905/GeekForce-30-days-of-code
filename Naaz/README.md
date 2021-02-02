@@ -16,7 +16,6 @@
 ### DAY15 - https://codeforces.com/problemset/problem/59/A
 ### DAY16 - https://codeforces.com/problemset/problem/41/A
 ### DAY17 - https://codeforces.com/problemset/problem/469/A
-### DAY17 - https://codeforces.com/problemset/problem/469/A
 ### DAY18 - https://codeforces.com/problemset/problem/136/A
 ### DAY19 - https://codeforces.com/problemset/problem/266/B
 ### DAY20 - https://codeforces.com/problemset/problem/1451/A
@@ -28,4 +27,4 @@
 ### DAY26 - https://codeforces.com/problemset/problem/379/A
 ### DAY27 - https://codeforces.com/problemset/problem/148/A
 ### DAY28 - https://codeforces.com/problemset/problem/228/A
-
+### DAY29 - https://codeforces.com/problemset/problem/520/A
