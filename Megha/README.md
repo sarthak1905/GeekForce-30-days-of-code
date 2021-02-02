@@ -64,4 +64,13 @@
 ### Day 21 : Jan 25 2021
 #### [Problem 1140A: Detective Book](https://codeforces.com/problemset/problem/1140/A)
 
+### Day 22 : Jan 26 2021
+#### [Problem 1141A: Game 23](https://codeforces.com/problemset/problem/1141/A)
+
+### Day 23 : Jan 27 2021
+#### [Problem 1288A: Deadline](https://codeforces.com/problemset/problem/1288/A)
+
+### Day 24 : Jan 28 2021
+#### [Problem 1265A: Beautiful String](https://codeforces.com/problemset/problem/1265/A)
+
 
