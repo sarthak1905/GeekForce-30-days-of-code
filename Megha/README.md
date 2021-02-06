@@ -73,4 +73,14 @@
 ### Day 24 : Jan 28 2021
 #### [Problem 1265A: Beautiful String](https://codeforces.com/problemset/problem/1265/A)
 
+### Day 25 : Jan 29 2021
+#### [Problem 1165B: Polycarp Training](https://codeforces.com/problemset/problem/1165/B)
+
+### Day 26 : Jan 30 2021
+#### [Problem 1373A: Donut Shops](https://codeforces.com/problemset/problem/1373/A)
+
+
+### Day 27 : Jan 31 2021
+#### [Problem 1395A: Boboniu Likes to Color Balls](https://codeforces.com/contest/1395/problem/A)
+
 
